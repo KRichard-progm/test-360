@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8be1191-0243-49f8-867d-d63e42a67541" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/landing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/landing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitebuil2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitebuild.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitebuild1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sitebuild2.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xV7qRQPR8Lz31j09H7hAyvSnR3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <myKeys>
+      <visibility group="Grunt" flag="true" />
+      <visibility group="Gulp" flag="true" />
+      <visibility group="Node.js" flag="true" />
+      <visibility group="Recent projects" flag="true" />
+      <visibility group="Run configurations" flag="true" />
+      <visibility group="com.intellij.ide.actions.runAnything.RunAnythingRunConfigurationProvider" flag="false" />
+      <visibility group="com.intellij.ide.actions.runAnything.activity.RunAnythingRecentProjectProvider" flag="false" />
+      <visibility group="com.intellij.lang.javascript.buildTools.grunt.GruntRunAnythingProvider" flag="false" />
+      <visibility group="com.intellij.lang.javascript.buildTools.gulp.GulpRunAnythingProvider" flag="false" />
+      <visibility group="com.intellij.lang.javascript.buildTools.npm.NpmRunAnythingProvider.Npm" flag="false" />
+      <visibility group="com.intellij.lang.javascript.buildTools.npm.NpmRunAnythingProvider.Yarn" flag="false" />
+      <visibility group="com.jetbrains.nodejs.execution.NodeRunAnythingProvider" flag="false" />
+      <visibility group="npm" flag="true" />
+      <visibility group="yarn" flag="true" />
+    </myKeys>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8be1191-0243-49f8-867d-d63e42a67541" name="Default Changelist" comment="" />
+      <created>1630428593558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630428593558</updated>
+      <workItem from="1630428595276" duration="225000" />
+      <workItem from="1630428824050" duration="2442000" />
+      <workItem from="1630431660317" duration="10438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
