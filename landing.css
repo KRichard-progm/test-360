@@ -1,7 +1,7 @@
 body{
     background-color: #FFD300;
-    margin: 60px 0 auto 100px;
-    font-family: Arial;
+    margin: 60px 10px auto 100px;
+    font-family: 'Comfortaa', cursive;
 }
 .header{
     display: flex;
@@ -10,12 +10,37 @@ body{
 
 .logo{
     margin-right: 60px;
+    font-weight: 600;
+}
+
+.logoE{
+    border: 5px solid black;
+    border-radius: 50%;
 }
 
 .menu a {
     color: black;
     text-decoration: none;
-    margin-right: 35px;
+    padding: 20px;
+    font-size: small;
+    overflow: auto;
+    transition: 1s;
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    margin-top: 15px;
+}
+
+.dropdown-content a{
+    color: #F9F5F8;
+    background-color: black;
+    padding: 6px;
+}
+
+.dropdown-content a:hover{
+    background-color: red;
 }
 
 .logo{
@@ -27,55 +52,78 @@ body{
     border: solid 1px gray;
     border-radius: 20px;
     background-color: white;
-    width: 290px;
+    width: 300px;
+    height: 150px;
     color: #0A0A0A;
     padding: 20px;
+    font-size: 10px;
 }
 
 .form_text{
-    font-weight: normal;
-    font-family: Arial;
+    font-weight: 300;
 }
 
 input{
     border: none;
     border-bottom: solid 1px black;
     margin-top: 15px;
-    width: 80%;
+    width: 85%;
 }
 
-button{
+.sendBtn{
     border: solid 1px black;
-    border-radius: 10px;
-    width: 330px;
-    height: 30px;
+    border-radius: 12px;
+    width: 340px;
+    height: 35px;
     color: #F9F5F8;
     background-color: black;
     font-size: larger;
     cursor: pointer;
+    font-weight: 300;
+    font-family: 'Comfortaa', cursive;
 }
-button:hover{
+.sendBtn:hover{
     color: red;
     background-color: #F9F5F8;
 }
 
 p{
     font-size: x-small;
+    font-weight: 300;
+}
+
+h6{
+    margin-top: 0;
+    font-weight: 500;
 }
 
 #phone{
-    width: 150px;
+    width: 200px;
 }
 
 #country{
-    width: 203px;
+    width: 240px;
 }
 
 .img1{
     margin-top: -450px;
-    margin-left: 65vh;
+    margin-left: 60vh;
 }
 .img2{
     margin-top: -640px;
-    margin-left: 127vh;
+    margin-left: 115vh;
+}
+
+.homeBtn{
+    position: relative;
+    width: 200px;
+    height: 60px;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.show{
+    display: flex;
 }

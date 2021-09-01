@@ -2,6 +2,9 @@
 <html lang="en">
 <head>
     <link rel="stylesheet" href="landing.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;500;600;700&display=swap" rel="stylesheet">
     <script src="landing.js"></script>
     <meta charset="UTF-8">
     <title>Bank360Sitebuild</title>
@@ -11,15 +14,20 @@
 <section class="header">
 
     <div class="logo">
-        <div class="logoCircle">
 
-        </div>
-        e w.pay
+       <span class="logoE">e</span> w.pay
     </div>
 
     <div class="menu">
 
-        <a href="#">HOME</a>
+            <a onclick="myfun()" id="clicks" href="#home">HOME</a>
+
+        <div class="dropdown-content" id="content">
+            <a href="#">WHO ARE WE?</a>
+            <a href="#">WHY WE?</a>
+            <a href="#">FUTURE</a>
+        </div>
+
         <a href="#">PRODUCT</a>
         <a href="#">PLANS</a>
         <a href="#">PRICES</a>
@@ -64,19 +72,19 @@
 
 <br>
 
-<a href="#"><button type="button">Continue</button></a>
+<a href="#"><button class="sendBtn" type="button">Continue</button></a>
 
 <br>
-
+<div></div>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. <br> Aperiam dolorum facere iste laborum maxime perferendis rerum,
     sequi sit voluptatibus voluptatum. <br>
     Assumenda eligendi illum iure magni nihil odio officiis, porro temporibus.
 </p>
-
 <h6>
     DOUBTS AND COMMENTS CALL US AT 464 5788
 </h6>
 
+</div>
 <div>
     <img class="img1" src="sitebuild1.png" height="540" width="366"/>
 </div>
